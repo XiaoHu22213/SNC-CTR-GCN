@@ -1,0 +1,2 @@
+[ Thu Nov  7 08:21:11 2024 ] Load weights from work_dir/uav/joint_motion_SNC/runs-42-10962.pt.
+[ Thu Nov  7 08:21:12 2024 ] using warm up, epoch: 5

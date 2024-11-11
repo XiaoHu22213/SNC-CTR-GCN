@@ -1,0 +1,2 @@
+[ Sun Nov 10 11:37:51 2024 ] Load weights from work_dir/uav/bone_SNC/runs-65-16965.pt.
+[ Sun Nov 10 11:37:52 2024 ] using warm up, epoch: 5

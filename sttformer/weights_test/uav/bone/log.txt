@@ -1,0 +1,7 @@
+[ 2024-11-07 11:27 ] Load weights from work_dir/uav/bone/bone.pt
+[ 2024-11-07 11:29 ] Load weights from work_dir/uav/bone/bone.pt
+[ 2024-11-07 11:29 ] Model load finished: model.sttformer.Model
+[ 2024-11-07 11:29 ] Data load finished
+[ 2024-11-07 11:39 ] Load weights from work_dir/uav/bone/bone.pt
+[ 2024-11-07 11:39 ] Model load finished: model.sttformer.Model
+[ 2024-11-07 11:39 ] Data load finished

@@ -1,0 +1,6 @@
+[ 2024-11-07 11:29 ] Load weights from work_dir/uav/joint/joint.pt
+[ 2024-11-07 11:29 ] Model load finished: model.sttformer.Model
+[ 2024-11-07 11:29 ] Data load finished
+[ 2024-11-07 11:40 ] Load weights from work_dir/uav/joint/joint.pt
+[ 2024-11-07 11:40 ] Model load finished: model.sttformer.Model
+[ 2024-11-07 11:40 ] Data load finished

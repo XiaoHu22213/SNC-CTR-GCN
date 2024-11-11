@@ -1,0 +1,2 @@
+[ Sun Nov 10 12:35:29 2024 ] Load weights from work_dir/uav/angle/runs-50-13050.pt.
+[ Sun Nov 10 12:35:30 2024 ] using warm up, epoch: 5

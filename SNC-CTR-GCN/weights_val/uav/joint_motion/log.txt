@@ -1,0 +1,3 @@
+[ Wed Nov  6 15:18:48 2024 ] Load weights from work-dir/uav/joint_motion/runs-39-10179.pt.
+[ Wed Nov  6 15:22:06 2024 ] Load weights from work-dir/uav/joint_motion/runs-39-10179.pt.
+[ Wed Nov  6 15:22:06 2024 ] using warm up, epoch: 5
